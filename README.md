@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Shahana Sherin 👋
 
-<!--
-**shahana-op/shahana-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Student  
+🏫 Government Engineering College, Barton Hill, Thiruvananthapuram
 
-Here are some ideas to get you started:
+I'm a first-year IT student interested in technology and passionate about learning and building new skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 **Currently exploring**
+- Cybersecurity
+- Software Development
+- Python & Programming
+- Artificial Intelligence
+- Networking & Computer Security
+
+🌱 **My goals**
+- Build practical projects
+- Strengthen my programming skills
+- Explore cybersecurity through hands-on learning
+- Learn new technologies
+- Contribute to open-source projects
+
+💡 I enjoy learning, experimenting with technology, and turning ideas into practical projects.
+
+📫 *Let's connect and learn together!*
